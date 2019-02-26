@@ -20,9 +20,9 @@ topics:
     web_url: https://github.com/topics/docker
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/docker/docker.png
 
-  - name: VS Code
-    web_url: https://github.com/topics/vscode
-    image_url: https://raw.githubusercontent.com/github/explore/81f924eb3bbe2ff13195d71ddb8f09cd1b4c5db6/topics/visual-studio-code/visual-studio-code.png
+  - name: Python
+    web_url: https://github.com/topics/python
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
 
   - name: Vue.js
     web_url: https://github.com/topics/vue
@@ -36,6 +36,13 @@ topics:
     web_url: https://github.com/topics/raspberry-pi
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/raspberry-pi/raspberry-pi.png
 
-  - name: Vue.js
-    web_url: https://github.com/topics/vue
+  - name: coldfusion
+    web_url: https://github.com/topics/coldfusion
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/vue/vue.png
+
+  - name: VS Code
+      web_url: https://github.com/topics/vscode
+      image_url: https://raw.githubusercontent.com/github/explore/81f924eb3bbe2ff13195d71ddb8f09cd1b4c5db6/topics/visual-studio-code/visual-studio-code.png
+
+
+    
