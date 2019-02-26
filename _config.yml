@@ -32,17 +32,3 @@ topics:
     web_url: https://github.com/topics/bootstrap
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/bootstrap/bootstrap.png
 
-  - name: Raspberry Pi
-    web_url: https://github.com/topics/raspberry-pi
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/raspberry-pi/raspberry-pi.png
-
-  - name: coldfusion
-    web_url: https://github.com/topics/coldfusion
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/vue/vue.png
-
-  - name: VS Code
-      web_url: https://github.com/topics/vscode
-      image_url: https://raw.githubusercontent.com/github/explore/81f924eb3bbe2ff13195d71ddb8f09cd1b4c5db6/topics/visual-studio-code/visual-studio-code.png
-
-
-    
